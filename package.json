@@ -1,0 +1,8 @@
+{
+  "name": "@ctsy/area",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/c-tsy/data_location",
+  "author": "castleiMac <castle@tansuyun.cn>",
+  "license": "MIT"
+}
